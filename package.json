@@ -1,0 +1,23 @@
+{
+  "name": "bookstore",
+  "version": "1.0.0",
+  "description": "A Node.js bookstore application with Express, Axios, and async/await for handling book and user operations.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "axios",
+    "bookstore",
+    "api"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.7.0",
+    "express": "^4.19.2"
+  }
+}
